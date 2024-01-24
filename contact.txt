@@ -1,0 +1,2 @@
+This is SCM class for g6 group
+
