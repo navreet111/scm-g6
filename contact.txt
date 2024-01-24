@@ -1,2 +1,4 @@
 This is SCM class for g6 group
+this is 3rd lecture of SCM
+
 
